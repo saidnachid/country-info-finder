@@ -17,7 +17,7 @@ A simple and user-friendly web application that allows users to search for any c
 
 ## 📸 Preview
 
-![screenshot](preview.png) <!-- Replace with your actual screenshot or GitHub image link -->
+![App preview](https://raw.githubusercontent.com/saidnachid/country-info-finder/main/preview.png)
 
 ## 🛠️ Technologies Used
 
@@ -30,4 +30,4 @@ A simple and user-friendly web application that allows users to search for any c
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/country-info-finder.git
+   git clone https://github.com/saidnachid/country-info-finder.git
